@@ -1,33 +1,33 @@
 body {
     background-color: black;
     text-align: center;
-}
-
-h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
 }
 
 h2 {
     font-size: 42px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
 }
 
-a {
+.download {
     color: aquamarine;
     font-size: 16px;
 }
 
 #remember {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
 }
 
 footer {
